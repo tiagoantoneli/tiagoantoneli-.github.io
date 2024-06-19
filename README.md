@@ -1,2 +1,3 @@
-# Port_exercicio
- portifolio teste
+# Hi There
+ 
+ Atualemnte estudando HTML, CSS e Javascript
