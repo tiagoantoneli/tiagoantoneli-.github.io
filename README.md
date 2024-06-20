@@ -1,3 +1,3 @@
 # Hi There
  
- Atualemnte estudando HTML, CSS e Javascript
+ Atualmente estudando HTML, CSS e Javascript.
